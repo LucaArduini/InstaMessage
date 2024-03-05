@@ -1,4 +1,4 @@
-Progetto per il corso di "**Progettazione Web**" (2021-22) presso l'Università di Pisa.
+Progetto per il corso di "**Reti Informatiche**" (2021-22) presso l'Università di Pisa.
 
 # InstaMessage
 
