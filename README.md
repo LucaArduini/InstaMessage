@@ -1,2 +1,5 @@
+Progetto per il corso di "Progettazione Web" (2021-22) presso l'Università di Pisa.
+
 # InstaMessage
-Progetto per il corso di "Reti Informatiche" presso l'Università di Pisa
+
+Applicazione distribuita basata su un paradigma ibrido peer-to-peer e client-server per la messaggistica istantanea. Include notifiche, chat di gruppo, condivisione di file e la possibilità di inviare messaggi anche offline.
